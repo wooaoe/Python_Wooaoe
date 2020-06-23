@@ -5,3 +5,4 @@
 a = "Hello World"
 num = a.count('l')
 print(num)
+
