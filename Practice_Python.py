@@ -5,5 +5,6 @@
 a = "Hello World"
 num = a.count('l')
 print(num)
+print("a %s" % "Welcome")
 
 
